@@ -1,3 +1,13 @@
+<h1 align="center">Hi guys im arvin afazali <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+
+***A Python ( backend developer )***
+
+- 🔭 I’m currently working on my **Python Course**
+
+- 🌱 I’m currently learning **Python & JAVA & Libraries**
+
+- 📫 How to reach me: [![image](https://img.shields.io/badge/-arvin1231231230@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hesam.init@gmail.com)](mailto:arvin1231231230@gmail.com)
+- 
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
