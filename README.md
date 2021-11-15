@@ -6,6 +6,8 @@
 
 - 🌱 I’m currently learning **Python & JAVA & Libraries**
 
+- 👯 I’m looking to collaborate on **Back-end projects**
+
 - 📫 How to reach me: [![image](https://img.shields.io/badge/-arvin1231231230@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hesam.init@gmail.com)](mailto:arvin1231231230@gmail.com)
 - 
 <div>
