@@ -40,11 +40,16 @@
 
 
 
+
+
+
+
+
 <p align='center'>
   💻 My workspace<br/><br/>
   <img alt="OS" src="https://img.shields.io/badge/Windows-Pc-0078D6?style=flat&logo=windows&logoColor=white" />
   <img alt="RAM" src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=flat&logoColor=white" />
   <img alt="SSD" src="https://img.shields.io/badge/128%20GB%20SSD-Solid%20State%20Disk-lightgrey?style=flat" />
-  <img alt="HDD" src="https://img.shields.io/badge/1T%20GB%20HDD-Hard%20Disk-lightgrey?style=flat" />
+  <img alt="HDD" src="https://img.shields.io/badge/1T%20%20HDD-Hard%20Disk-lightgrey?style=flat" />
 </p>
 
