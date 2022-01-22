@@ -1,4 +1,4 @@
-<h1 align="center">Hi guys im Arvin Afazali <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h1 align="center">Hi guys its  Arvin Afazali <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 
 *** Python ( backend developer )***
 
