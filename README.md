@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on my **Python Course**
 
-- 🌱 I’m currently learning **Python & JAVA & Libraries**
+- 🌱 I’m currently learning **Python Libraries**
 
 - 👯 I’m looking to collaborate on **Back-end projects**
 
